@@ -962,6 +962,7 @@ header .navbar ul li a:hover {
   width: 45%;
   margin-right: 3.5rem;
 }
+.c
 form .form-group {
   display: flex;
   flex-direction: column;
@@ -1091,7 +1092,7 @@ form .button-area {
 .footer {
   min-height: auto;
   padding-top: 0;
-  background: rgb(0, 1, 43);
+  background: rgb(143, 93, 183);
 }
 .footer .box-container {
   display: flex;
@@ -1222,4 +1223,5 @@ form .button-area {
 #scroll-top.active {
   top: calc(100% - 12rem);
 }
+
 /* scroll top ends */
